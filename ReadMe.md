@@ -7,7 +7,7 @@ The MetroCity Font ToDo list is rather long at the moment.
 
 # Clarity City
 
-![Clarity City Typeface](./clarity-city.png)
+![Clarity City Typeface](./docs-original/clarity-city.png)
 
 Clarity City is an open source sans-serif typeface. It is the default font for the VMware Clarity Design System.
 
