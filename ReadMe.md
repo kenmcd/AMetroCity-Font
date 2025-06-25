@@ -1,9 +1,7 @@
 # AMetroCity Font
 The AMetroCity font is a fork of the Clarity City font.  
-Project is in the very early stages.   
-Variable masters have been created.  
-Currently modifying and adding stuff.  
-The AMetroCity Font ToDo list is rather long at the moment.  
+The ToDo list is rather long at the moment.  
+See AMetroCity Font Change Summary [ADD .md file and link]    
 
 # Clarity City
 
