@@ -1,9 +1,9 @@
-# MetroCity Font
-The MetroCity font is a fork of the Clarity City font.  
+# AMetroCity Font
+The AMetroCity font is a fork of the Clarity City font.  
 Project is in the very early stages.   
 Variable masters have been created.  
 Currently modifying and adding stuff.  
-The MetroCity Font ToDo list is rather long at the moment.  
+The AMetroCity Font ToDo list is rather long at the moment.  
 
 # Clarity City
 
